@@ -51,6 +51,8 @@ It contains information about:
 
 ## 6. Power BI Dashboard
 
+![E-commerce Sales Dashboard](dashboard.png)
+
 The interactive dashboard contains six main visualisations.
 
 ### Sales Performance
